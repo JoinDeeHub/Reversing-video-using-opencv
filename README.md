@@ -1,4 +1,6 @@
 # Reversing-video-using-opencv
+![cv](https://user-images.githubusercontent.com/81760159/174244077-9866e8be-696a-4369-917a-c5f0aa522da3.jpg)
+
 OpenCV (Open Source Computer Vision Library) is Python library to solve computer vision related problems. OpenCV is a vast library which provides various functions for video operations. Using OpenCV, we can capture a video from the webcam. It lets you create a video capture object which helps to capture videos through webcam and then we can perform desired operations on that video.
 
 To play a video in reverse mode using OpenCV Python
